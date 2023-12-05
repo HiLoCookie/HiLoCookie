@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiLoCookie
 - 👀 I’m interested in books, cats, music and coding
 - 🌱 I’m currently learning programming - mainly python and JS.
-- 💞️ I’m looking to collaborate on *nothin*
+- 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me *you don't* 😉
 
 <!---
